@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1588090731 source:c:\users\ioan\desktop\proiect pclp 2\proiect pclp2\proiect\main.c
+	"proiect.h"
+
+1588090935 c:\users\ioan\desktop\proiect pclp 2\proiect pclp2\proiect\proiect.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+
+1588085979 source:c:\users\ioan\desktop\proiect pclp 2\proiect pclp2\proiect\proiect.c
+	"proiect.h"
+
+1588609586 source:c:\users\ioan\desktop\proiect pclp2\proiect\main.c
+	"proiect.h"
+
+1588609140 c:\users\ioan\desktop\proiect pclp2\proiect\proiect.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<malloc.h>
+
+1588966464 source:c:\users\ioan\desktop\proiect pclp2\proiect\proiect.c
+	"proiect.h"
+
+1588605986 source:c:\users\ioan\desktop\deea\proiect pclp2\proiect pclp2\abobului_ioan_cod_sursa\main.c
+	"proiect.h"
+
+1588605540 c:\users\ioan\desktop\deea\proiect pclp2\proiect pclp2\abobului_ioan_cod_sursa\proiect.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<ctype.h>
+	<malloc.h>
+
+1589015368 source:c:\users\ioan\desktop\deea\proiect pclp2\proiect pclp2\abobului_ioan_cod_sursa\proiect.c
+	"proiect.h"
+

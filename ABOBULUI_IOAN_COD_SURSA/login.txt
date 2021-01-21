@@ -1,0 +1,4 @@
+NUME      &    PAROLA
+=======================
+admin          123
+manager        000
